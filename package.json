@@ -1,0 +1,22 @@
+{
+  "name": "uni-dev-tools",
+  "version": "1.0.7",
+  "description": "uni-app开发环境生产工具",
+  "bin": {
+    "uni-dev-tools": "./bin/index.js",
+    "udt": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "Keywords": [
+    "uni-app",
+    "dev-tools",
+    "hbuildx"
+  ],
+  "author": "try520",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^5.0.0"
+  }
+}
