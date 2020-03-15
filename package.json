@@ -9,6 +9,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/try520/uni-dev-tools.git"
+    },
   "Keywords": [
     "uni-app",
     "dev-tools",
