@@ -1,6 +1,6 @@
 {
   "name": "uni-dev-tools",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "uni-app开发环境生产工具",
   "bin": {
     "uni-dev-tools": "./bin/index.js",
