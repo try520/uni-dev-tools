@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const program = require('commander');
-var pkg = require('../package.json');
+const pkg = require('../package.json');
 const Watch=require('../lib/watch').init();
 const init=require('../lib/init').init();
 
